@@ -1,0 +1,4 @@
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW.Rebel.List.Oporto.David.csprojAssemblyReference.cache
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW.Rebel.List.Oporto.David.csproj.CoreCompileInputs.cache
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW_Rebel_List_Oporto_David.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW_Rebel_List_Oporto_David.pdb

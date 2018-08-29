@@ -1,0 +1,10 @@
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\bin\Debug\RebelService.Application.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\bin\Debug\RebelService.Application.pdb
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\obj\Debug\RebelService.Application.csproj.CoreCompileInputs.cache
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\obj\Debug\RebelService.Application.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\obj\Debug\RebelService.Application.pdb
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\bin\Debug\log4net.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\bin\Debug\log4net.xml
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\obj\Debug\RebelService.Application.csproj.CopyComplete
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\bin\Debug\Config\log4net.xml
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\RebelService.Application\obj\Debug\RebelService.Application.csprojAssemblyReference.cache

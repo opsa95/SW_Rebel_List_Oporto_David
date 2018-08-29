@@ -1,0 +1,13 @@
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\SW_Rebel_List_Oporto_David.dll.config
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\SW_Rebel_List_Oporto_David.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\SW_Rebel_List_Oporto_David.pdb
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW_Rebel_List_Oporto_David.csprojAssemblyReference.cache
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW_Rebel_List_Oporto_David.csproj.CoreCompileInputs.cache
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW_Rebel_List_Oporto_David.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW_Rebel_List_Oporto_David.pdb
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\log4net.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\log4net.xml
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\obj\Debug\SW_Rebel_List_Oporto_David.csproj.CopyComplete
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\RebelService.Application.dll
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\RebelService.Application.pdb
+C:\Users\opsa9\source\repos\SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David\bin\Config\log4net.xml

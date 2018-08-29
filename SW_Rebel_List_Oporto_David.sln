@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW_Rebel_List_Oporto_David", "SW_Rebel_List_Oporto_David\SW_Rebel_List_Oporto_David.csproj", "{356C8592-49F5-44FF-9391-41BD015001F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{610D2EE5-45FE-4204-9FF7-E43312122AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RebelService.Application", "RebelService.Application\RebelService.Application.csproj", "{0CEF34E6-EAB5-48DD-AC31-5608C3C888F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{356C8592-49F5-44FF-9391-41BD015001F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356C8592-49F5-44FF-9391-41BD015001F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356C8592-49F5-44FF-9391-41BD015001F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356C8592-49F5-44FF-9391-41BD015001F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEF34E6-EAB5-48DD-AC31-5608C3C888F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEF34E6-EAB5-48DD-AC31-5608C3C888F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEF34E6-EAB5-48DD-AC31-5608C3C888F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEF34E6-EAB5-48DD-AC31-5608C3C888F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1706A1CA-9FB9-4F71-B0F7-3986D4611D80}
+	EndGlobalSection
+EndGlobal
